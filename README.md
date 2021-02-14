@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hoop3r
+- 👀 I’m interested in everything that can be fun
+- 🌱 I’m currently learning C#, SQL, some Python
+- 💞️ I’m looking to collaborate on soon
+- 📫 How to reach me soon
