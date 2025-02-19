@@ -1,4 +1,4 @@
-<h2 align="center">Hello, my name is Nicholas!</h2>
+<h1 align="center">Hello, my name is Nicholas! 🌛 </h1>
 
 <p> I am currently pursuing an undergrad degree in computer science & engineering at the University of Louisville. I enjoy studying cyber security and tinkering :P </p>
 
