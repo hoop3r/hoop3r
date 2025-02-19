@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="center">Hello, my name is Nicholas!</h2>
 
-<!--
-**hoop3r/hoop3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> I am currently pursuing an undergrad degree in computer science & engineering at the University of Louisville. I enjoy studying cyber security and tinkering :P </p>
 
-Here are some ideas to get you started:
+<h3> Web Development Portfolio</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Personal website: [hoop3r.com](https://hoop3r.com/)
+
+- Anna Jones Photography: [howdyitsanna.com](https://howdyitsanna.com/)
+
+<h3> Contact me </h3>
+
+Email:  nicholas (at) hoop3r.com
