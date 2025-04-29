@@ -1,6 +1,6 @@
 <h1 align="center">Hello, my name is Nicholas! 🌛 </h1>
 
-<p> I am currently pursuing an undergrad degree in computer science & engineering at the University of Louisville. I enjoy studying cyber security and tinkering :P </p>
+<p> I am currently pursuing a Masters of Engineering in Computer Science & Engineering at the University of Louisville. I enjoy studying cyber security and tinkering :P </p>
 
 <h3> Web Development Portfolio</h3>
 
